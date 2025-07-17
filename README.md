@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=Blur&color=timeGradient&height=300&section=header&text=🍀)
 
-## 안녕하세요  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> ![HappyCloverRemediumGIF](https://github.com/user-attachments/assets/0be31927-24d3-41fe-a8c8-02f2665c000c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0be31927-24d3-41fe-a8c8-02f2665c000c" alt="HappyCloverRemediumGIF" />
+</p>
+
  <br/>
   <br/>
 
